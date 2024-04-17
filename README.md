@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/205/650/png-clipart-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs.png" height="30" alt="mysql logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-UcEjuu3AwR77ZjceWzpeSsZCdGUa4YFc6KvA-7YHA&s" height="30" alt="mysql logo"  />
   
 </div>
 
