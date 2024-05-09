@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shaik Ameer Sohail and I'm a Passionate Full Stack Developer and Devops Engineer from India. </h2>
+<h2 align="left">Hi 👋! My name is Shaik Ameer Sohail and I'm a Passionate Full Stack Developer and Devops Engineer from India </h2>
 
 ####
 
@@ -49,7 +49,7 @@
   </a>
 </div>
 
-###
+### 
 
 <img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
