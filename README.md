@@ -1,14 +1,16 @@
-<h2 align="left">Hi 👋! My name is Shaik Ameer Sohail and I'm a Passionate Full Stack Developer and Devops Engineer from India </h2>
+<h1 align="left">Hi 👋! My name is Shaik Ameer Sohail </h1>
+<p> I'm a Passionate Full Stack Developer and Devops Engineer from India</p>
+
 
 ####
-
+## Github Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sohail-9&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+## Skills 
 <div align="left">
   <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -39,6 +41,8 @@
 </div>
 
 ####
+
+## Contact
 
 <div align="left">
   <a href="s.suhail9849@gmail.com" target="_blank">
