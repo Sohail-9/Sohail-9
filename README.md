@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋! My name is Shaik Ameer Sohail </h1>
-<p> I'm a Passionate Full Stack Developer and Devops Engineer from India</p>
+<p>I'm a passionate developer with experience in building web applications using technologies like Python, JavaScript, and React. I'm also proficient in DevOps practices like CI/CD and containerization. I'm always eager to learn and contribute to challenging projects.
+</p>
 
 
 ####
@@ -55,8 +56,6 @@
 
 ### 
 
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
-###
 
 <br clear="both">
