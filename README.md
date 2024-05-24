@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Sohail </h1>
+<h1 align="left">Hi 👋! My name is Sk Sohail </h1>
 <p>I'm a passionate developer with experience in building web applications using technologies like Python, JavaScript, and React. I'm also proficient in DevOps practices like CI/CD and containerization. I'm always eager to learn and contribute to challenging projects.
 </p>
 
