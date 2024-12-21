@@ -1,61 +1,42 @@
-<h1 align="left">Hi 👋! My name is Sk Sohail </h1>
-<p>I'm a passionate developer with experience in building web applications using technologies like Python, JavaScript, and React. I'm also proficient in DevOps practices like CI/CD and containerization. I'm always eager to learn and contribute to challenging projects.
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</div>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <h1 style="margin: 0;">Hi 👋, I'm Shaik Ameer Sohail</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+</div>
+
+# 👨‍�� About Me
+
+AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
+
+# 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sohail-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Sohail-9&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sohail-9&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sohail-9&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+</p>
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail-9&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-####
-## Github Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sohail-9&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail-9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
-###
-## Skills 
-<div align="left">
-  <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-UcEjuu3AwR77ZjceWzpeSsZCdGUa4YFc6KvA-7YHA&s" height="30" background="black" alt="mysql logo"  />
-  
-</div>
-
-####
-
-## Contact
-
-<div align="left">
-  <a href="s.suhail9849@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shaiksohail96/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-### 
-
-
-
-<br clear="both">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sohail-9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
