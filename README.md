@@ -11,6 +11,62 @@
 
 AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
 
+# 💻 Tech Stack
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" />
+</p>
+### 🌐 Frontend Development
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/Next.js-61DAFB?style=flat&logo=next.js" alt="Next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=tailwindcss" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=bootstrap" alt="Bootstrap" />
+</p>
+### ⚙️ Backend Development
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js" alt="Express.js" /> <img src="https://img.shields.io/badge/FastAPI-43853D?style=flat&logo=fastapi" alt="FastAPI" />
+</p>
+### 🛢 Database
+<p>
+<img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
+</p>
+### ☁️ Cloud & Hosting
+<p>
+<img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
+</p>
+### 🔧 DevOps & CI/CD
+<p>
+<img src="https://img.shields.io/badge/Git-2496ED?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Nginx-2496ED?style=flat&logo=nginx" alt="Nginx" /> <img src="https://img.shields.io/badge/Linux-2496ED?style=flat&logo=linux" alt="Linux" />
+</p>
+### 🧪 Testing
+<p>
+<img src="https://img.shields.io/badge/Postman-333333?style=flat&logo=postman" alt="Postman" />
+</p>
+### 📱 Mobile Development
+<p>
+<img src="https://img.shields.io/badge/React_Native-3DDC84?style=flat&logo=react-native" alt="React Native" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android" />
+</p>
+### 🛠 Tools & IDE
+<p>
+<img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=vs-code" alt="VS Code" />
+</p>
+
+# 🌱 Currently Learning
+
+- AI, ML, devops, full stack development
+
+# 💻 Workspace Specs
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white) ![Sublime](https://img.shields.io/badge/Sublime-007ACC?style=flat&logo=sublime&logoColor=white)
+
+### Browsers
+
+![Firefox](https://img.shields.io/badge/Firefox-4285F4?style=flat&logo=firefox&logoColor=white)
+
 # 📊 GitHub Statistics
 
 <p>
