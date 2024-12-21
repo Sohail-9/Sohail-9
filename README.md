@@ -51,7 +51,10 @@ AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
 
 # 🌱 Currently Learning
 
-- AI, ML, devops, full stack development
+- AI
+- ML
+- Devops
+- Full stack development
 
 # 💻 Workspace Specs
 
