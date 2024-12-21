@@ -9,7 +9,7 @@
 
 # 👨‍�� About Me
 
-AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI (Enhanced for clarity and impact)
+AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
 
 # 💻 Tech Stack
 ### 💻 Programming Languages
