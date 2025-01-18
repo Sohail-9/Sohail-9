@@ -4,37 +4,37 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Shaik Ameer Sohail</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer" style="margin-left: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Software%20Development%20Engineer" style="margin-left: 10px;" />
 </div>
 
 # 👨‍�� About Me
 
-AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
+AWS | C++ | DSA | Competative Programmer | SDE @ Startup
 
 # 💻 Tech Stack
 ### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" />
 </p>
 ### 🌐 Frontend Development
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/Next.js-61DAFB?style=flat&logo=next.js" alt="Next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=tailwindcss" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=tailwindcss" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=bootstrap" alt="Bootstrap" />
 </p>
 ### ⚙️ Backend Development
 <p>
-<img src="https://img.shields.io/badge/FastAPI-43853D?style=flat&logo=fastapi" alt="FastAPI" /> <img src="https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js" alt="Express.js" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js" alt="Express.js" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/Django-43853D?style=flat&logo=django" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-43853D?style=flat&logo=fastapi" alt="FastAPI" />
 </p>
 ### 🛢 Database
 <p>
-<img src="https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase" alt="Firebase" /> <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
 </p>
 ### ☁️ Cloud & Hosting
 <p>
-<img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
+<img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" />
 </p>
 ### 🔧 DevOps & CI/CD
 <p>
-<img src="https://img.shields.io/badge/Nginx-2496ED?style=flat&logo=nginx" alt="Nginx" /> <img src="https://img.shields.io/badge/Linux-2496ED?style=flat&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-2496ED?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Linux-2496ED?style=flat&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/Nginx-2496ED?style=flat&logo=nginx" alt="Nginx" />
 </p>
 ### 🧪 Testing
 <p>
@@ -44,22 +44,24 @@ AWS | C++ | DSA | Competative Programmer | SDE @ omniqAI
 <p>
 <img src="https://img.shields.io/badge/React_Native-3DDC84?style=flat&logo=react-native" alt="React Native" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android" />
 </p>
+### 🛠 Tools & IDE
+<p>
+<img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=vs-code" alt="VS Code" />
+</p>
 
 # 🌱 Currently Learning
 
-- AI
-- ML
-- DEVSECOPS
+- AI/ML
 
 # 💻 Workspace Specs
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white) ![Sublime](https://img.shields.io/badge/Sublime-007ACC?style=flat&logo=sublime&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
 
 ### Browsers
 
