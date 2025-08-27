@@ -20,9 +20,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🖥️ **Software Development Engineer @ AI Startup**
+- 🖥️ **Software Development Engineer @ OmniqAI**
 - 🚀 Specializing in Cloud, Backend/API, AI/ML, System Design, DSA
-- 🏆 **Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS Certified**
+- 🏆 **Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS **
 - 🏗️ Ex-Civil Engineer turned Developer | Mentor | Content Creator
 
 ---
@@ -45,7 +45,6 @@
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
 **Database:**  
