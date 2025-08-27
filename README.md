@@ -23,9 +23,7 @@
 - 🖥️ **Software Development Engineer @ OmniqAI**
 - 🚀 Specializing in Cloud, Backend/API, AI/ML, System Design, DSA
 - ⚙️ Enhanced CI/CD pipelines using GitHub Actions, achieving zero-downtime deployments, 40% faster release cycles
-- 🚢 Optimized container orchestration, cutting infrastructure costs by 20%, boosting resilience
 - 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
-- 🛠 Integrated payment features for secure user balance upgrades and smooth transactions
 - 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS
 - 🏗️ Ex-Civil Engineer turned Developer 
 
