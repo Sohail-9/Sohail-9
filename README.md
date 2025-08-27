@@ -1,18 +1,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=45&lines=Hi%F0%9F%91%8B%2C+I%27m+Shaik+Ameer+Sohail;Full-stack+Engineer;Open-source+Contributor;Problem+Solver;Cloud+Enthusiast" />
   <br />
-  <!-- Use HTML img tag for banner -->
-  <img src="https://raw.githubusercontent.com/Sohail-9/assets/main/banner-wave.svg" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header" />
 </p>
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ameer-sohail/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shaikameersohail/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikameersohai)
-[![Gmail](https://img.shields.io/badge/shaikameersohail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikameersohail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksohail96/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sohail-Dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sohail.digital/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohail-dev)
+[![Gmail](https://img.shields.io/badge/s.suhail9849@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.suhail9849@gmail.com)
 [![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
 
 </div>
@@ -71,17 +69,16 @@
 ## 🔥 Developer Focus Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohail-9&show_icons=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Sohail-9&theme=github-dark-blue&hide_border=true" height="180" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohail-9&theme=onestar&no-frame=true&no-bg=true&column=8" height="130" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-9&layout=compact&theme=github_dark&hide_border=true" height="130" />
-  <br />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail-9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-  <br />
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohail-9&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-9&layout=compact&theme=dark&hide_border=true)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohail-9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
+
 </div>
+
 
 ---
 
@@ -92,19 +89,16 @@
       <b>💡 Automating Docker Deployments with MCP Agent</b><br>
       A DevOps tool using LLMs and Model Context Protocol to manage Docker containers with real-time analytics. Eliminates the need to remember docker commands and provides comprehensive CLI monitoring.<br>
       Technologies: TypeScript, React, MCP, LLM, Dockerode, Node.js<br>
-      <a href="https://github.com/Sohail-9/repo1"><img src="https://img.shields.io/github/stars/Sohail-9/repo1?style=social" /></a>
     </td>
     <td>
       <b>✨ Intelligent Document Assistant</b><br>
       Context-aware document content generation and retrieval leveraging large language models and Model Context Protocol to streamline internal workflows.<br>
       Technologies: Python, LLM, Model Context Protocol<br>
-      <a href="https://github.com/Sohail-9/repo2"><img src="https://img.shields.io/github/stars/Sohail-9/repo2?style=social" /></a>
     </td>
     <td>
       <b>🚀 CI/CD Pipeline Enhancement</b><br>
       Improved CI/CD pipelines using GitHub Actions for zero-downtime deployments and faster release cycles by 40%.<br>
       Technologies: GitHub Actions, Docker, Kubernetes<br>
-      <a href="https://github.com/Sohail-9/repo3"><img src="https://img.shields.io/github/stars/Sohail-9/repo3?style=social" /></a>
     </td>
   </tr>
 </table>
@@ -122,18 +116,6 @@
 - Artificial Intelligence & Machine Learning
 - System Design at Scale
 - Advanced C++ Patterns
-
----
-
-## 🎧 Now Playing
-[![Spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Blog automation to reflect your **latest articles**
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
