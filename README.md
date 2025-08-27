@@ -6,15 +6,16 @@
 </p>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ameer-sohail/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shaikameersohail/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link/)
-  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikameersohai)
-  [![Gmail](https://img.shields.io/badge/shaikameersohail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikameersohail@gmail.com)
-  [![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ameer-sohail/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shaikameersohail/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikameersohai)
+[![Gmail](https://img.shields.io/badge/shaikameersohail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikameersohail@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
+
+</div>
 ---
 
 ## 👨🏻‍💻 About Me
@@ -25,7 +26,7 @@
 - 🚢 Optimized container orchestration, cutting infrastructure costs by 20%, boosting resilience
 - 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
 - 🛠 Integrated payment features for secure user balance upgrades and smooth transactions
-- 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS Certified
+- 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS
 - 🏗️ Ex-Civil Engineer turned Developer | Mentor | Content Creator
 
 ---
