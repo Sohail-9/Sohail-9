@@ -1,19 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=45&lines=Hi%F0%9F%91%8B%2C+I%27m+Shaik+Ameer+Sohail;Full-stack+Engineer;Open-source+Contributor;Problem+Solver;Cloud+Enthusiast" />
   <br>
-  <img src="https://user-images.githubusercontent.com/86917304/178829025-7796fa51-bab1-42c9-8861-d653a3e6a311.svg" width="90%" />
+  <!-- Replaced broken SVG with a subtle animated wave banner -->
+  <img src="https://raw.githubusercontent.com/Sohail-9/assets/main/banner-wave.svg" width="90%" />
 </p>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ameer-sohail/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shaikameersohail/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikameersohai)
-[![Gmail](https://img.shields.io/badge/shaikameersohail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikameersohail@gmail.com)
-[![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ameer-sohail/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shaikameersohail/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link/)
+  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikameersohai)
+  [![Gmail](https://img.shields.io/badge/shaikameersohail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikameersohail@gmail.com)
+  [![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
 </div>
 
 ---
@@ -22,7 +21,11 @@
 
 - 🖥️ **Software Development Engineer @ OmniqAI**
 - 🚀 Specializing in Cloud, Backend/API, AI/ML, System Design, DSA
-- 🏆 **Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS **
+- ⚙️ Enhanced CI/CD pipelines using GitHub Actions, achieving zero-downtime deployments, 40% faster release cycles
+- 🚢 Optimized container orchestration, cutting infrastructure costs by 20%, boosting resilience
+- 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
+- 🛠 Integrated payment features for secure user balance upgrades and smooth transactions
+- 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS Certified
 - 🏗️ Ex-Civil Engineer turned Developer | Mentor | Content Creator
 
 ---
@@ -89,23 +92,26 @@
 <table>
   <tr>
     <td>
-      <b>💡 Project 1</b><br>
-      Description and key tech (e.g. C++/React/Docker)<br>
+      <b>Automating Docker Deployments with MCP Agent</b><br>
+      A DevOps tool using LLMs and Model Context Protocol to manage Docker containers with real-time analytics. Eliminates the need to remember docker commands and provides comprehensive CLI monitoring.<br>
+      Technologies: TypeScript, React, MCP, LLM, Dockerode, Node.js<br>
       <a href="https://github.com/Sohail-9/repo1"><img src="https://img.shields.io/github/stars/Sohail-9/repo1?style=social" /></a>
     </td>
     <td>
-      <b>✨ Project 2</b><br>
-      Description and key tech (e.g. FastAPI/AWS)<br>
+      <b>Intelligent Document Assistant</b><br>
+      Context-aware document content generation and retrieval leveraging large language models and Model Context Protocol to streamline internal workflows.<br>
+      Technologies: Python, LLM, Model Context Protocol<br>
       <a href="https://github.com/Sohail-9/repo2"><img src="https://img.shields.io/github/stars/Sohail-9/repo2?style=social" /></a>
     </td>
     <td>
-      <b>🚀 Project 3</b><br>
-      Description and key tech (e.g. System Design, MySQL)<br>
+      <b>CI/CD Pipeline Enhancement</b><br>
+      Improved CI/CD pipelines using GitHub Actions for zero-downtime deployments and faster release cycles by 40%.<br>
+      Technologies: GitHub Actions, Docker, Kubernetes<br>
       <a href="https://github.com/Sohail-9/repo3"><img src="https://img.shields.io/github/stars/Sohail-9/repo3?style=social" /></a>
     </td>
   </tr>
 </table>
-  
+
 ---
 
 ## 🛠️ Workspace Specs
@@ -118,7 +124,7 @@
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
+- Artificial Intelligence & Machine Learning
 - System Design at Scale
 - Advanced C++ Patterns
 
