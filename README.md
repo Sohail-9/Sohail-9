@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=45&lines=Hi%F0%9F%91%8B%2C+I%27m+Shaik+Ameer+Sohail;Full-stack+Engineer;Open-source+Contributor;Problem+Solver;Cloud+Enthusiast" />
-  <br>
-  <!-- Replaced broken SVG with a subtle animated wave banner -->
+  <br />
+  <!-- Use HTML img tag for banner -->
   <img src="https://raw.githubusercontent.com/Sohail-9/assets/main/banner-wave.svg" width="90%" />
 </p>
 
@@ -16,10 +16,10 @@
 [![](https://visitcount.itsvg.in/api?id=Shaik_Ameer_Sohail&label=Profile%20Views&icon=5&color=1)](https://github.com/Sohail-9)
 
 </div>
+
 ---
 
 ## 👨🏻‍💻 About Me
-
 - 🖥️ **Software Development Engineer @ OmniqAI**
 - 🚀 Specializing in Cloud, Backend/API, AI/ML, System Design, DSA
 - ⚙️ Enhanced CI/CD pipelines using GitHub Actions, achieving zero-downtime deployments, 40% faster release cycles
@@ -27,12 +27,11 @@
 - 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
 - 🛠 Integrated payment features for secure user balance upgrades and smooth transactions
 - 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS
-- 🏗️ Ex-Civil Engineer turned Developer | Mentor | Content Creator
+- 🏗️ Ex-Civil Engineer turned Developer 
 
 ---
 
 ## 🧑‍💻 Tech Stack
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -74,38 +73,37 @@
 ## 🔥 Developer Focus Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sohail-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Sohail-9&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohail-9&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" height="130" />
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sohail-9&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" height="130"/>
-  <br>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail-9&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-  <br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohail-9&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Sohail-9&theme=github-dark-blue&hide_border=true" height="180" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sohail-9&theme=onestar&no-frame=true&no-bg=true&column=8" height="130" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail-9&layout=compact&theme=github_dark&hide_border=true" height="130" />
+  <br />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail-9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <br />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td>
-      <b>Automating Docker Deployments with MCP Agent</b><br>
+      <b>💡 Automating Docker Deployments with MCP Agent</b><br>
       A DevOps tool using LLMs and Model Context Protocol to manage Docker containers with real-time analytics. Eliminates the need to remember docker commands and provides comprehensive CLI monitoring.<br>
       Technologies: TypeScript, React, MCP, LLM, Dockerode, Node.js<br>
       <a href="https://github.com/Sohail-9/repo1"><img src="https://img.shields.io/github/stars/Sohail-9/repo1?style=social" /></a>
     </td>
     <td>
-      <b>Intelligent Document Assistant</b><br>
+      <b>✨ Intelligent Document Assistant</b><br>
       Context-aware document content generation and retrieval leveraging large language models and Model Context Protocol to streamline internal workflows.<br>
       Technologies: Python, LLM, Model Context Protocol<br>
       <a href="https://github.com/Sohail-9/repo2"><img src="https://img.shields.io/github/stars/Sohail-9/repo2?style=social" /></a>
     </td>
     <td>
-      <b>CI/CD Pipeline Enhancement</b><br>
+      <b>🚀 CI/CD Pipeline Enhancement</b><br>
       Improved CI/CD pipelines using GitHub Actions for zero-downtime deployments and faster release cycles by 40%.<br>
       Technologies: GitHub Actions, Docker, Kubernetes<br>
       <a href="https://github.com/Sohail-9/repo3"><img src="https://img.shields.io/github/stars/Sohail-9/repo3?style=social" /></a>
@@ -116,7 +114,6 @@
 ---
 
 ## 🛠️ Workspace Specs
-
 - **OS:** ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
 - **IDE:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
 - **Browser:** ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox-browser)
@@ -124,7 +121,6 @@
 ---
 
 ## 🌱 Currently Learning
-
 - Artificial Intelligence & Machine Learning
 - System Design at Scale
 - Advanced C++ Patterns
@@ -132,13 +128,11 @@
 ---
 
 ## 🎧 Now Playing
-
 [![Spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 ---
 
 ## 📝 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - Blog automation to reflect your **latest articles**
 <!-- BLOG-POST-LIST:END -->
@@ -146,12 +140,10 @@
 ---
 
 ## ✨ Fun Zone
-
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![Random Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230e1116&textColor=%23fff)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohail-9&" alt="sohail-9" />
 
 ---
 
 *Auto-updating with activity, stats, and blog posts via GitHub Actions.  
-Let’s code something amazing together! 🚀*
+Let's code something amazing together! 🚀*
