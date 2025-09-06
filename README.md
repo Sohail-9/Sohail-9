@@ -19,7 +19,7 @@
 
 ## 👨🏻‍💻 About Me
 - 🖥️ **Software Development Engineer @ OmniqAI**
-- 🚀 Specializing in Cloud, Backend/API, AI/ML, System Design, DSA
+- 🚀 Specializing in Cloud, Backend/API, AI, System Design, DSA
 - ⚙️ Enhanced CI/CD pipelines using GitHub Actions, achieving zero-downtime deployments, 40% faster release cycles
 - 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
 - 🏆 Competitive Programmer | LeetCode 2000+ | Open Source Contributor | AWS
