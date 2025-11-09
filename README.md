@@ -17,13 +17,16 @@
 
 ---
 
-## 👨🏻‍💻 About Me
-- 🖥️ **Software Development Engineer @ OmniqAI**
-- 🚀 Specializing in Cloud, Backend/API, AI, System Design, DSA
-- ⚙️ Enhanced CI/CD pipelines using GitHub Actions, achieving zero-downtime deployments, 40% faster release cycles
-- 🤖 Developed an intelligent document assistant leveraging LLMs and Model Context Protocol for context-aware content generation & retrieval
-- 🏆 Competitive Programmer | LeetCode | Open Source Contributor | AWS
-- 🏗️ Ex-Civil Engineer turned Developer 
+👨🏻‍💻 About Me
+🖥️ Backend Engineer @ OmniqAI specializing in cloud-native architectures, scalable backend APIs, AI-powered systems, and system design
+
+🚀 Enhanced CI/CD pipelines with GitHub Actions, enabling zero-downtime deployments and reducing release cycles by 40%
+
+🤖 Architected and developed intelligent document assistants using Large Language Models and Model Context Protocol for context-aware content generation and retrieval
+
+🏆 Active LeetCode problem solver, passionate open source contributor, and AWS
+
+🏗️ Transitioned from Civil Engineering to Software Development, blending analytical thinking with coding expertise
 
 ---
 
