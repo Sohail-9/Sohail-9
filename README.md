@@ -23,9 +23,9 @@
 
 - 🚀 Enhanced CI/CD pipelines with GitHub Actions, enabling zero-downtime deployments and reducing release cycles by 40%
 
-- 🤖 Architected and developed intelligent document assistants using Large Language Models and Model Context Protocol for context-aware content generation and retrieval
+- 🤖 Architected and developed intelligent document assistants using Large Language Models and MCPs for context-aware content generation and retrieval
 
-- 🏆 Active LeetCode problem solver, passionate open source contributor, and AWS
+- 🏆 LeetCode, passionate open source contributor, and AWS
 
 - 🏗️ Transitioned from Civil Engineering to Software Development, blending analytical thinking with coding expertise
 
