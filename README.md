@@ -55,7 +55,8 @@ I am a **Backend Engineer @ OmniqAI** specializing in building scalable systems 
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🤖 **Docker MCP Agent** | A DevOps tool using LLMs to manage Docker containers with natural language, featuring real-time analytics. | TypeScript, React, MCP, LLM |
+| 🦊 **TraceFox** | An AI-powered platform automating the SDLC. Features unified code analysis, test generation, and intelligent debugging with root cause analysis. | Next.js, TypeScript, AI/LLM |
+| 🤖 **Docker MCP Agent** | A DevOps tool using LLMs to manage Docker containers with natural language, featuring real-time analytics. | TypeScript, React, MCP |
 | 📚 **Intelligent Doc Assistant** | Context-aware document generation and retrieval system streamlining internal workflows. | Python, LLM, MCP |
 | 🔄 **CI/CD Optimizer** | Enhanced pipelines achieving zero-downtime deployments and 40% faster release cycles. | GitHub Actions, K8s, Docker |
 
