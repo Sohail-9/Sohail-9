@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shaik Ameer Sohail
-### Backend Engineer | Cloud Native Architect | AI Systems
+### Backend Engineer | Open Source Contributor | Cloud Native Architect | AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaiksohail96/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://www.sohail.digital/)
@@ -13,10 +13,11 @@
 
 ### 🚀 Professional Summary
 
-Backend Engineer with a background in Civil Engineering, blending analytical precision with 1.5+ years of software development. Currently architecting AI-powered systems and optimizing cloud infrastructure.
+Backend Engineer and Open Source Contributor, transitioned from Civil Engineering into software engineering, bringing strong problem-solving skills with 1.5+ years of hands-on backend development. Currently architecting AI-powered systems and optimizing cloud infrastructure.
 
-* **Specialization:** Cloud-native architectures, Scalable Microservices, and Agentic AI.
+* **Specialization:** Cloud-native architectures, scalable microservices, and Agentic AI.
 * **Impact:** Reduced release cycles by **40%** at OmniqAI via CI/CD optimization.
+* **Open Source:** Active contributor across repositories involving backend systems, DevOps tooling, and developer productivity.
 * **Current Focus:** Building autonomous DevOps agents and exploring Blockchain (Solana/Ethereum).
 
 ---
@@ -52,7 +53,7 @@ Backend Engineer with a background in Civil Engineering, blending analytical pre
 
 ---
 
-### 📊 Github Activity
+### 📊 GitHub Activity
 
 <div align="center">
 
