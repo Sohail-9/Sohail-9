@@ -7,7 +7,7 @@
 Building 0→1 AI products, multi-agent systems and cloud infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaiksohail96/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://www.sohail.digital/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://www.sohaildev.online/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:s.suhail9849@gmail.com)
 
 </div>
